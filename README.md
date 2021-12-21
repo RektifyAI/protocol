@@ -1,5 +1,5 @@
 # Sena Protocol
-Sena is building a prolific DeFi advisory &amp; staking protocol. Click here to view our whitepaper.
+Sena is building a prolific DeFi advisory &amp; investing protocol. Click here to view our whitepaper.
 
 This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be a DeFi advisory with limited liability in the case of exploits or hacks. The main sectors of DeFi that have been explored are the following:
 - Lending
