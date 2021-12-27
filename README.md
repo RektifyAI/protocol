@@ -12,7 +12,7 @@ This repository contains Sena's open source smart contracts, data analysis, data
 
 ----
 
-Until now, risk advisory has been conducted by consultants that may not have the leverage to predict potential exploits in DeFi before its occurance in an automated way. Sena is a prolific risk advisor by leveraging data analytics, machine learning, and edge computing to make prescriptive inferences on protocols' risk tolerance. The need for risk advisory and investment strategy is prevalent as the DeFi industry is growing at an exponential rate. According to Decrypt.co, there are over 3 million DeFi users utilizing DEXs such as Uniswap, Sushiswap, dYdX, 1inch, and more, to-date(2021). By 2025 we project that number will triple as more people are attracted to Bitcoin, NFTS, smart contracts, and of course, the intergalatic portal of decentralized finance.
+Until now, risk advisory has been conducted by consultants that may not have the leverage to predict potential exploits in DeFi before its occurance in an automated way. Sena is a prolific risk advisor by leveraging data analytics, machine learning, and edge computing to make prescriptive inferences on protocols' risk tolerance. The need for risk advisory and investment strategy is prevalent as the DeFi industry is growing at an exponential rate. According to Decrypt.co, there are over 3 million DeFi users utilizing DEXs such as Uniswap, Sushiswap, dYdX, 1inch, and more, to-date(2021). By 2025 we project that number will triple as more people are attracted to Bitcoin, NFTs, smart contracts, and of course, the decentralized finance industry.
 
 ## Table of Contents
 - [Contributing](#contributing)
