@@ -17,6 +17,7 @@ This repository contains Sena's open source smart contracts, data analysis, data
 - Insurance
 - Automated Risk Advisory`**`
 </br>
+
 `**`Automated risk advisory is now introduced by Sena Labs with Sena protocol.
 
 ----
