@@ -4,14 +4,19 @@ Sena is building a prolific DeFi advisory protocol. Click here to view our white
 This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be a DeFi advisory with limited liability in the case of exploits or hacks. The main sectors of DeFi that have been explored are the following:
 - Lending and Borrowing
 - Derivatives
+- Credit
+- Stablecoins
 - Exchanges(CEX and DEX)
 - Funding
 - Asset Management
 - Payments
 - Assets
+- Wallets
+- Oracles
 - Trading
 - Insurance
 - Automated Risk Advisory`**`
+
 </br>
 
 `**`Automated risk advisory is now introduced by Sena Labs with Sena protocol.
