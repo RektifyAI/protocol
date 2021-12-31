@@ -6,7 +6,7 @@ This repository contains Sena's open source smart contracts, data analysis, data
 - Derivatives
 - Credit
 - Stablecoins
-- Exchanges(CEX and DEX)
+- Exchanges
 - Funding
 - Asset Management
 - Payments
