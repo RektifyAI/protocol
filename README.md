@@ -43,7 +43,7 @@ How to launch Sena:
  4. Create new branch `git checkout -b NAME_OF_YOUR_BRANCH`
  
 ## History of advisory mechanisms in DeFi
-
+Traditional advisory in the DeFi ecosystem is executed by DeFi consultants who have no formal training to DeFi consultant or Expert. The DeFi industry is built by open-source, permission
 ## License
 
 ## Resources
