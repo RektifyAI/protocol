@@ -29,7 +29,6 @@ This repository contains Sena's open source smart contracts, data analysis, data
 - Prediction Markets
 - Risk Advisory`**`
 </br>
-
 `**`Automated risk advisory is now being introduced by Sena Labs through Sena protocol. 
 
 ----
