@@ -3,7 +3,7 @@ Sena is building an automated DeFi advisory protocol that uses machine learning 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
-----
+
 <!-- image -->
 <p style="text-align:center;">
   <img src="supervised_learning.png" alt="Sena Front Page Beta" width="800" class="center" style="margin-right: 5px;"/>
