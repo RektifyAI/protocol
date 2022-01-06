@@ -6,8 +6,9 @@ Sena acts as an automated portifilio manager and risk analyst, mitigating the ne
 ----
 <!-- image -->
 <p style="text-align:center;">
-  <img src="supervised_learning.png" alt="Sena Front Page Beta" width="300" class="center" style="margin-right: 5px;"/>
+  <img src="supervised_learning.png" alt="Sena Front Page Beta" width="800" class="center" style="margin-right: 5px;"/>
 </p>
+
 ----
 
 This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be a DeFi advisory with limited liability in the case of exploits or hacks. The main sectors of DeFi that have been explored are the following:
