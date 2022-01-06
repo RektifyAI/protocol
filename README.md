@@ -8,6 +8,7 @@ Sena acts as an automated portifilio manager and risk analyst, mitigating the ne
 <p style="text-align:center;">
   <img src="supervised_learning.png" alt="Sena Front Page Beta" width="800" class="center" style="margin-right: 5px;"/>
 </p>
+
 Source: [Supervised Learning Method](https://www.tibco.com/reference-center/what-is-supervised-learning)
 
 ----
