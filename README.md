@@ -1,5 +1,9 @@
 # Sena Protocol
-Sena is building an automated DeFi advisory protocol that uses machine learning and artificial intelligence to analyze past attack data and make predictions on future or possible exploits. Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper.
+Sena is building an automated DeFi advisory protocol that uses machine learning and artificial intelligence to analyze past attack data and make predictions on future or possible exploits. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
+
+Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
+
+----
 
 This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be a DeFi advisory with limited liability in the case of exploits or hacks. The main sectors of DeFi that have been explored are the following:
 - Lending and Borrowing
@@ -44,6 +48,7 @@ How to launch Sena:
  
 ## History of advisory mechanisms in DeFi
 Traditional advisory in the DeFi ecosystem is executed by DeFi consultants who have no formal training to DeFi consultant or Expert. The DeFi industry is built by open-source, permission
+
 ## License
 
 ## Resources
