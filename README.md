@@ -3,15 +3,8 @@ Sena is building an automated DeFi advisory protocol that uses machine learning 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
-Projected Launch Date: Between Jan. 2023 - August 2024(6 months after [2024 Halvening](https://www.buybitcoinworldwide.com/bitcoin-clock/)
-
-
-<!-- image -->
-<p style="text-align:center;">
-  <img src="supervised_learning.png" alt="Sena Front Page Beta" width="800" class="center" style="margin-right: 5px;"/>
-</p>
-
-Source: [Supervised Learning Method](https://www.tibco.com/reference-center/what-is-supervised-learning)
+Projected Launch Date: Between Jan. 2023 - August 2024 
+[2024 Halvening](https://www.buybitcoinworldwide.com/bitcoin-clock/)
 
 ----
 
@@ -36,7 +29,16 @@ This repository contains Sena's open source smart contracts, data analysis, data
 
 ----
 
-Until now, risk advisory has been conducted by consultants whom of which, may not have the leverage to predict potential exploits in DeFi before its occurance in an automated way. Sena is a prolific risk advisory protocol by leveraging data analytics, machine learning, and the decentralized edge to make prescriptive inferences on protocols' risk tolerance. 
+Until now, risk advisory has been conducted by consultants whom of which, do not have the computing power or leverage to predict potential attacks in DeFi before its occurance. Sena is a prolific risk advisory protocol. The analytical architecture uses data analytics, machine learning, and the decentralized edge to make prescriptive inferences on protocols' risk tolerance. See the [Advanced Attack Analysis repo](https://github.com/SenaLabs/adv-attack-analysis.git) to view the code architecture at the back-end of Sena.
+
+
+<!-- image -->
+<p style="text-align:center;">
+  <img src="supervised_learning.png" alt="Sena Front Page Beta" width="800" class="center" style="margin-right: 5px;"/>
+</p>
+
+Source: [Supervised Learning Method](https://www.tibco.com/reference-center/what-is-supervised-learning)
+
 
 The need for risk advisory and investment strategy is prevalent as the DeFi industry is growing at an exponential rate. According to [Decrypt.co](https://decrypt.co/76963/uniswaps-growth-pushes-defi-3-million-total-users), there are over 3 million DeFi users utilizing DEXs such as Uniswap, Sushiswap, dYdX, 1inch, and more, to-date(2021). By 2025 we project that number will triple as more people are attracted to Bitcoin, NFTs, smart contracts, and of course, the decentralized finance industry.
 
