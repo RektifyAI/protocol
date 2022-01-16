@@ -8,7 +8,7 @@ Projected Launch Date: Between Jan. 2023 - August 2024
 
 ----
 
-This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be a DeFi advisory with limited liability in the case of exploits or hacks. The main sectors of DeFi that have been explored are the following:
+This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be the DeFi risk advisory protocol to bridge the gap between DeFi entrants and DeFi risk education. The main decentralized financial services that have been explored are the following:
 - Lending and Borrowing
 - Derivatives (Synthetic Assets)
 - Credit
