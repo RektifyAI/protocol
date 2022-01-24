@@ -20,8 +20,9 @@ This repository contains Sena's open source smart contracts, data analysis, data
 - Wallets
 - Oracles
 - Trading
-- Insurance (Risk Managing)
+- Insurance 
 - Prediction Markets
+- Risk Management
 - Risk Advisory`**`
 </br>
 
