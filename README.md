@@ -3,7 +3,7 @@ Sena is building an automated risk advisory protocol that uses machine learning 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
-Projected Launch Date: Between Jan. 2023 - August 2024 
+Projected Launch Date: Q1 2023 - Q3 2024 
 [2024 Halvening](https://www.buybitcoinworldwide.com/bitcoin-clock/)
 
 ----
