@@ -32,7 +32,7 @@ This repository contains Sena's open source smart contracts, data analysis, data
 
 ----
 
-Until now, risk advisory has been conducted by consultants whom of which, do not have the computing power or leverage to predict potential attacks in DeFi before its occurance. Sena is a prolific risk advisory protocol. The analytical architecture uses data analytics, machine learning, and the decentralized edge to make prescriptive inferences on protocols' risk tolerance. See the [Advanced Attack Analysis repo](https://github.com/SenaLabs/adv-attack-analysis.git) to view the code architecture at the back-end of Sena.
+Until now, risk advisory has been conducted by consultants whom of which, do not have the computing power or leverage to predict potential attacks in DeFi before its occurance without leveraging Big Data tactics. Sena is a prolific risk advisory protocol. The analytical architecture uses data analytics, machine learning, and the decentralized edge to make prescriptive inferences on protocols' risk tolerance. See the [Advanced Attack Analysis repo](https://github.com/SenaLabs/adv-attack-analysis.git) to view the code architecture at the back-end of Sena.
 
 
 <!-- image -->
