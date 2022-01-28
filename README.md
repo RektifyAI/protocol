@@ -1,9 +1,11 @@
 # Sena Protocol
-Sena is building an automated risk advisory protocol that uses machine learning and artificial intelligence to analyze attack data and make predictions on future or possible attacks in the DeFi ecosystem. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
+Sena is an automated risk advisory protocol that uses machine learning and artificial intelligence to analyze attack data and make predictions on future or possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
-Projected Launch Date: Q1 2023 - Q3 2024 
+<b> Projected Launch Date: Q1 2023 - Q3 2024 </b>
+  - DeFi is seemingly independent of the Bitcoin 4-year cycles. However, more action tends to be on DeFi products/services when the price of Bitcoin expontentiates in a bull market. The reason it's advantageous for Sena to launch between Q1 2023 - Q3 2024, is to catch the beginning of the 2024 Bitcoin halvening before Bitcoin skyrockets for another bull cycle. All of this is speculatively, but comes from the founder's 6 year experience in the digital assets market.
+  
 [2024 Halvening](https://www.buybitcoinworldwide.com/bitcoin-clock/)
 
 ----
