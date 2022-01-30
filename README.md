@@ -1,9 +1,10 @@
 # Sena Protocol
-Sena is an automated risk advisory protocol that uses machine learning and artificial intelligence to analyze attack data and make predictions on future or possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
+Sena is an automated risk advisory protocol that uses machine learning & artificial intelligence to analyze attack data and make predictions on future or possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
 <b> Projected Launch Date: Q1 2023 - Q3 2024 </b>
+
   - DeFi is seemingly independent of the Bitcoin 4-year cycles. However, more action tends to be on DeFi products/services when the price of Bitcoin expontentiates in a bull market. 
   - The reason it is advantageous for Sena to launch between Q1 2023 - Q3 2024, is to catch the beginning of the 2024 Bitcoin halvening before Bitcoin skyrockets for another bull cycle. 
   - All of the claims are speculatively, but comes from the founder's 6 year experience in the digital assets market.
@@ -43,7 +44,6 @@ Until now, risk advisory has been conducted by consultants whom of which, do not
 </p>
 
 Source: [Supervised Learning Method](https://www.tibco.com/reference-center/what-is-supervised-learning)
-
 
 The need for risk advisory and investment strategy is prevalent as the DeFi industry is growing at an exponential rate. According to [Decrypt.co](https://decrypt.co/76963/uniswaps-growth-pushes-defi-3-million-total-users), there are over 3 million DeFi users utilizing DEXs such as Uniswap, Sushiswap, dYdX, 1inch, and more, to-date(2021). By 2025 we project that number will triple as more people are attracted to Bitcoin, NFTs, smart contracts, and of course, the decentralized finance industry.
 
