@@ -1,6 +1,6 @@
 # DAO governance
 
-The following is the DAO goverance model for Sena Labs.
+The following is the external DAO goverance model for Sena Labs.
 
 > All sub-entities within Sena Labs have designated smart contracts to issue governance:
 - Token distribution
