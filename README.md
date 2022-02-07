@@ -13,7 +13,7 @@ Sena acts as an automated portifilio manager and risk analyst, mitigating the ne
 
 ----
 
-This repository contains Sena's open source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be the DeFi risk advisory protocol to bridge the gap between DeFi entrants and DeFi risk education. The main decentralized financial services that have been explored are the following:
+This repository contains Sena's open-source smart contracts, data analysis, data visulizations, and risk metrics. The value proposition for Sena is to be the DeFi risk advisory protocol to bridge the gap between DeFi entrants and DeFi risk education. The main decentralized financial services that have been explored are the following:
 - Lending and Borrowing
 - Derivatives (Synthetic Assets)
 - Credit
