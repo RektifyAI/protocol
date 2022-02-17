@@ -55,7 +55,7 @@ The need for risk advisory and investment strategy is prevalent as the DeFi indu
 - [Resources](#resources)
 
 ## Contributing
-The Sena protocol is bootstrapped by initial investors and developers if you would like to investor in our protocol please visit our website. We would like to encourage you to join and contribute to our DAO, SenaDAO, which focuses on bridging the African Diaspora via e-commerce through the ETH blockchain. SenaDAO is a very important project to our community and any contribution big or small is accepted.
+The Sena protocol is bootstrapped by initial investors and developers if you would like to investor in our protocol please visit our website. 
 
 ## Deploy Sena
 How to launch Sena:
