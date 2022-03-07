@@ -7,7 +7,7 @@ Sena acts as an automated portifilio manager and risk analyst, mitigating the ne
 
   - DeFi is seemingly independent of the Bitcoin 4-year cycles. However, more attraction tends to be on DeFi products/services when the price of Bitcoin expontentiates in a bull market. 
   - The reason it is advantageous for Sena to launch between Q1 2023 - Q3 2024, is to catch the beginning of the 2024 Bitcoin halvening before Bitcoin skyrockets for another bull cycle. 
-  - All of the claims are speculatively, but comes from the founder's 6-year experience in the digital assets market. 
+  - All of the claims are speculatively, but comes from the nature of Bitcoin's 4-year Halvening cycles. 
   
 [2024 Halvening](https://www.buybitcoinworldwide.com/bitcoin-clock/)
 
