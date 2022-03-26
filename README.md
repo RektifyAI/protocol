@@ -1,7 +1,7 @@
 # Sena Protocol
 Sena is an automated risk advisory protocol that uses machine learning & artificial intelligence to analyze attack data and make predictions on future or possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
 
-Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
+Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi/crypto consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
 <b> Projected Launch Date: Q1 2023 - Q3 2024 </b>
 
