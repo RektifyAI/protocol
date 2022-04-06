@@ -1,5 +1,5 @@
 # Sena Protocol
-Sena is an automated risk advisory protocol that uses advanced data science to analyze attack data and detect possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
+Sena is an automated risk advisory protocol/platform that uses advanced data science to analyze attack data and detect possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
 
 Sena acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi/crypto consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
 
