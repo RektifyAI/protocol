@@ -1,4 +1,4 @@
-# Rektify AI - Risk Advisory Platform
+# Rektify AI - Web3 Security platform scaling to Risk Advisory Protocol
 Rektify AI is an automated risk advisory platform that uses advanced data science to analyze attack data and detect possible attacks. The automation is spearheaded by supervised learning, leveraging both regression and classification methods to draw out more insights on training data. 
 
 Rektify AI acts as an automated portifilio manager and risk analyst, mitigating the need for a DeFi/crypto consultant to do day-to-day updates on whats happening on-chain and off-chain within the DeFi ecosystem. Click here to view our whitepaper. 
